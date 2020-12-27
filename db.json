@@ -1,0 +1,67 @@
+{
+  "products": [
+    {
+      "title": "lebron",
+      "description": "Level up your game in the LeBron Witness 5, a strong",
+      "price": "1234",
+      "image": "https://cdn.flightclub.com/TEMPLATE/135809/1.jpg",
+      "id": 6
+    },
+    {
+      "title": "essert",
+      "description": "Level up your game in the LeBron Witness 5, a strong ",
+      "price": "9000",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71tIqxezfVL._AC_UL1500_.jpg",
+      "id": 7
+    },
+    {
+      "title": "air max",
+      "description": "Level up your game in the LeBron Witness 5, a strong",
+      "price": "6000",
+      "image": "https://im0-tub-ru.yandex.net/i?id=1a535f17f8497d5cad3e040540c52386&ref=rim&n=33&w=309&h=150",
+      "id": 8
+    },
+    {
+      "title": "Max Nike111",
+      "description": "Nike Shox Gravity Grand Purple/Vast Grey Black White",
+      "price": "7000222",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61ziSiu38zL.jpg",
+      "id": 9
+    },
+    {
+      "title": "Max Nike",
+      "description": "Nike Shox Gravity Grand Purple/Vast Grey Black White",
+      "price": "5000",
+      "image": "https://im0-tub-ru.yandex.net/i?id=455f1e7e49456d342c0427c0a388675c&ref=rim&n=33&w=303&h=150",
+      "id": 9
+    },
+    {
+      "title": "Max Nike",
+      "description": "itis emirlan",
+      "price": "8000",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61ziSiu38zL.jpg",
+      "id": 9
+    },
+    {
+      "title": "Max Nike",
+      "description": "Nike Shox Gravity Grand Purple/Vast Grey Black White",
+      "price": "4300",
+      "image": "https://im0-tub-ru.yandex.net/i?id=0ef607072d344727371a77b23adfa2a9&ref=rim&n=33&w=317&h=150",
+      "id": 9
+    },
+    {
+      "title": "Max Nike",
+      "description": "Nike Shox Gravity Grand Purple/Vast Grey Black White",
+      "price": "5500",
+      "image": "https://cdna.lystit.com/photos/stockx/1325a81a/nike-University-GoldUniversity-Blue-Air-Max-270-Summer-Gradient.jpeg",
+      "id": 9
+    },
+    {
+      "title": "yuioiuy",
+      "description": "askaar",
+      "price": "444",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61ziSiu38zL.jpg",
+      "id": 10
+    }
+  ]
+}

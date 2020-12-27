@@ -1,0 +1,18 @@
+.admin{
+    background: url(./image/brandlogo.png) no-repeat center / cover;
+    background-size: 67%;
+}
+.adminka{
+    width: 200px;
+    height: 23px;
+}
+.pagination{
+    display: flex;
+    justify-content: center;
+    padding-top:70px;
+    padding-bottom: 40px;
+  }
+.first{
+    background-color:  rgb(47,34,64);
+    color: #fff;
+}
